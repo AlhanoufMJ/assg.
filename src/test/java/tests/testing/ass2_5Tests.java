@@ -14,7 +14,7 @@ import org.testng.annotations.Test;
 
 
 
-public class Ass2_5Tests extends Tests{
+public class ass2_5Tests extends Tests{
     @DataProvider(name = "credentilas")
     public Object[][] getData(){
         return new Object[][]{

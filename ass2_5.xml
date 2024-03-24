@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" parallel="methods" thread-count="3">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/just-/IdeaProjects/Assignments/src/test/java/tests/testing/ass2_5Tests.java">
+        <classes>
+            <class name="tests.testing.ass2_5Tests">
+
+            </class>
+        </classes>
+    </test>
+</suite>
