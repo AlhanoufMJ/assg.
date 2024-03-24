@@ -11,9 +11,8 @@ import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
 
-// Go to amazon.com
-// Take Full Page Screenshot.
-// Take any spesific WebElement ScreenShot
+
+
 public class As7_4 extends Tests{
     @Test
     public void screenShotTest() throws IOException {

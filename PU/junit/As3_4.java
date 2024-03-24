@@ -6,11 +6,7 @@ import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 
-/*
-( This task should be managed with keyboard actions )
-// go to https://www.google.com/
-// search for "Scroll Methods" by using an Actions object
- */
+
 public class As3_4 extends Tests{
     @Test
     public void keyboardAction(){

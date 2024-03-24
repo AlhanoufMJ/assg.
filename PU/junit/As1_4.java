@@ -8,12 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class As1_4 extends Tests{
-    //Go to URL: https://the-internet.herokuapp.com/windows
-    //Verify the text: “Opening a new window”
-    //Verify the title of the page is “The Internet”
-    //Click on the “Click Here” button
-    //Verify the new window title is “New Window”
-    //Go back to the previous window and then verify the title: “The Internet”
+
 
     @Test
     public void test01(){

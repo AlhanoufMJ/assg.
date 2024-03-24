@@ -10,13 +10,7 @@ import org.openqa.selenium.interactions.Actions;
 import java.awt.*;
 import java.awt.event.KeyEvent;
 
-/*
-   Go to Amazon
-   Scroll to the bottom of the page using a robot
-   Click on the "Back to top" web element
-   Click on the Amazon logo at the bottom of the page (in the footer) using JavascriptExecutor
-   Use Actions to type "ClarusWay" in the search box and perform the search
-*/
+
 public class As4_4 extends Tests {
     @Test
     public void robotTest() throws AWTException, InterruptedException {

@@ -5,12 +5,7 @@ import org.openqa.selenium.Cookie;
 
 import java.util.Set;
 
-/*   Go to URL: http://facebook.com
-       getCookies,
-       addCookie,
-       deleteCookieNamed,
-       deleteAllCookies
-    */
+
 public class As5_4 extends Tests{
     @Test
     public void cookieTest(){
